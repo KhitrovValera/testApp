@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomSearchBarTheme" parent="ThemeOverlay.Material3.Search">
+        <item name="colorOnSurface">@color/grey</item>
+        <item name="colorOnSurfaceVariant">@color/mega_white_50</item>
+        <item name="hintTextColor">@color/grey</item>
+        <item name="navigationIconTint">@color/megaa_white</item>
+    </style>
+
+    <style name="CustomActiveIndicator" parent="">
+        <item name="android:color">@color/grey</item>
+        <item name="android:height">32dp</item>
+        <item name="android:width">64dp</item>
+        <item name="shapeAppearance">@style/CustomActiveIndicatorShape</item>
+    </style>
+
+    <style name="CustomActiveIndicatorShape">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+</resources>

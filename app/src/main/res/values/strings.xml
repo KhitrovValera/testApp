@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">testApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_found">Ошибка 404. Ничего не найдено</string>
+    <string name="io_error">Ошибка соединения</string>
+    <string name="db_error">Ошибка базы данных</string>
+    <string name="server_error">Ошибка со стороны сервера</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="enter">Вход</string>
+    <string name="email">Email</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="password_title">Пароль</string>
+    <string name="enter_button_text">Вход</string>
+    <string name="reg_title">Нету аккаунта?</string>
+    <string name="reg">Регистрация</string>
+    <string name="forget_password">Забыл пароль</string>
+    <string name="pod">Подробнее →</string>
+    <string name="price">Цена</string>
+    <string name="desc">Описание курса</string>
+    <string name="name">Имя курса</string>
+    <string name="date">дата</string>
+    <string name="rating">оценка</string>
+    <string name="search_courses">Search courses...</string>
+    <string name="sort">По дате добавления ↑↓</string>
+    <string name="licked">Избранное</string>
+    <string name="courses">Courses</string>
+    <string name="main">Главная</string>
+    <string name="profile">Аккаунт</string>
+    <string name="error">Ошибка</string>
+    <string name="autor">Автор</string>
+    <string name="author">Автор курса</string>
+    <string name="start_course">Начать курс</string>
+    <string name="about">О курсе</string>
+</resources>
